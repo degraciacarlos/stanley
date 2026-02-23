@@ -1,12 +1,122 @@
 [
  {
+   "ID": 48,
+   "ASIN": "B0CT49TWCP",
+   "TIPO": "Quick Flip GO",
+   "DESCRIPCION": "Stanley Quick Flip GO Water Bottle",
+   "COLOR": "Pomelo",
+   "TAMANO": 24,
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 47,
+   "ASIN": "B0C2G9WLFG",
+   "TIPO": "Quick Flip GO",
+   "DESCRIPCION": "Stanley Quick Flip GO Water Bottle",
+   "COLOR": "Rose Quartz Fade",
+   "TAMANO": 24,
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 46,
+   "ASIN": "B0F7JXDZMK",
+   "TIPO": "AeroLight",
+   "DESCRIPCION": "Stanley AeroLight Transit Bottle",
+   "COLOR": "Dried Pine",
+   "TAMANO": 20,
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
+ },
+ {
+   "ID": 45,
+   "ASIN": "B0DCDC6V54",
+   "TIPO": "Quencher",
+   "DESCRIPCION": "Stanley Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
+   "COLOR": "Frost Fade",
+   "TAMANO": 14,
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
+ },
+ {
+   "ID": 44,
+   "ASIN": "B0DR9PV96R",
+   "TIPO": "Quencher",
+   "DESCRIPCION": "Stanley Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
+   "COLOR": "Hot Coral Fade",
+   "TAMANO": 14,
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
+ },
+ {
+   "ID": 43,
+   "ASIN": "B0DCD92FYC",
+   "TIPO": "Quencher",
+   "DESCRIPCION": "Stanley Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
+   "COLOR": "Azure",
+   "TAMANO": 14,
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
+ },
+ {
+   "ID": 42,
+   "ASIN": "B0DR9NQMMS",
+   "TIPO": "Quencher",
+   "DESCRIPCION": "Stanley Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
+   "COLOR": "Pomelo",
+   "TAMANO": 14,
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
+ },
+ {
+   "ID": 41,
+   "ASIN": "B0CSF3YBT1",
+   "TIPO": "IceFlow",
+   "DESCRIPCION": "Stanley IceFlow Flip Straw Tumbler with Handle",
+   "COLOR": "Ash",
+   "TAMANO": 20,
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 40,
+   "ASIN": "B0FB7KNN6K",
+   "TIPO": "Quencher",
+   "DESCRIPCION": "Stanley Quencher H2.0 Tumbler with Handle and Straw",
+   "COLOR": "Dew Drop",
+   "TAMANO": 14,
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 39,
+   "ASIN": "B07NDY8P62",
+   "TIPO": "Food Jar",
+   "DESCRIPCION": "Stanley Classic Food Jar and Spork",
+   "COLOR": "Silver",
+   "TAMANO": 18,
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 38,
+   "ASIN": "B0DVKP9PJT",
+   "TIPO": "Adventure-To-Go",
+   "DESCRIPCION": "Stanley Adventure-To-Go Vacuum Bottle",
+   "COLOR": "Chili Red",
+   "TAMANO": 44.8,
+   "PRECIO VENTA": 36,
+   "ESTADO": 1
+ },
+ {
    "ID": 37,
    "ASIN": "B0D37XMB5X",
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Cap and Carry Water Bottle",
    "COLOR": "Pomelo",
-   "TAMANO (Oz)": 16,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 16,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -15,8 +125,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Cap and Carry Water Bottle",
    "COLOR": "Black",
-   "TAMANO (Oz)": 16,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 16,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -25,8 +135,8 @@
    "TIPO": "Quencher",
    "DESCRIPCION": "Stanley Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
    "COLOR": "Port Shimmer",
-   "TAMANO (Oz)": 14,
-   "PRECIO ESTIMADO VENTA": null,
+   "TAMANO": 14,
+   "PRECIO VENTA": 0,
    "ESTADO": 0
  },
  {
@@ -35,9 +145,9 @@
    "TIPO": "All Day",
    "DESCRIPCION": "Stanley All Day Slim Bottle",
    "COLOR": "Ash",
-   "TAMANO (Oz)": 20,
-   "PRECIO ESTIMADO VENTA": 32,
-   "ESTADO": 1
+   "TAMANO": 20,
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 33,
@@ -45,8 +155,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Pomelo",
-   "TAMANO (Oz)": 24,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 24,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -55,8 +165,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Cap and Carry Water Bottle",
    "COLOR": "Polar",
-   "TAMANO (Oz)": 16,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 16,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -65,8 +175,8 @@
    "TIPO": "Quencher",
    "DESCRIPCION": "Stanley Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
    "COLOR": "Rose Quartz Fade",
-   "TAMANO (Oz)": 20,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 20,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -75,8 +185,8 @@
    "TIPO": "Quencher",
    "DESCRIPCION": "Stanley Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
    "COLOR": "Frost Fade",
-   "TAMANO (Oz)": 20,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 20,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -85,8 +195,8 @@
    "TIPO": "Quencher",
    "DESCRIPCION": "Stanley Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
    "COLOR": "Rose Quartz Fade",
-   "TAMANO (Oz)": 14,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 14,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -95,8 +205,8 @@
    "TIPO": "Quencher",
    "DESCRIPCION": "Stanley Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
    "COLOR": "Hot Coral Fade",
-   "TAMANO (Oz)": 30,
-   "PRECIO ESTIMADO VENTA": null,
+   "TAMANO": 30,
+   "PRECIO VENTA": 0,
    "ESTADO": 0
  },
  {
@@ -105,8 +215,8 @@
    "TIPO": "AeroLight",
    "DESCRIPCION": "Stanley AeroLight Transit Bottle",
    "COLOR": "Lilac",
-   "TAMANO (Oz)": 16,
-   "PRECIO ESTIMADO VENTA": null,
+   "TAMANO": 16,
+   "PRECIO VENTA": 0,
    "ESTADO": 0
  },
  {
@@ -115,8 +225,8 @@
    "TIPO": "All Day",
    "DESCRIPCION": "Stanley All Day Slim Bottle",
    "COLOR": "Pomelo",
-   "TAMANO (Oz)": 20,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 20,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -125,8 +235,8 @@
    "TIPO": "Quick Flip GO",
    "DESCRIPCION": "Stanley Quick Flip GO Water Bottle",
    "COLOR": "Mist",
-   "TAMANO (Oz)": 24,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 24,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -135,8 +245,8 @@
    "TIPO": "Quick Flip GO",
    "DESCRIPCION": "Stanley Quick Flip GO Water Bottle",
    "COLOR": "Frost",
-   "TAMANO (Oz)": 24,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 24,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -145,8 +255,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Cap and Carry Water Bottle",
    "COLOR": "Alpine",
-   "TAMANO (Oz)": 16,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 16,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -155,8 +265,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Fast Flow Water Bottle",
    "COLOR": "Polar",
-   "TAMANO (Oz)": 36,
-   "PRECIO ESTIMADO VENTA": null,
+   "TAMANO": 36,
+   "PRECIO VENTA": 0,
    "ESTADO": 0
  },
  {
@@ -165,8 +275,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Fast Flow Water Bottle",
    "COLOR": "Pomelo",
-   "TAMANO (Oz)": 36,
-   "PRECIO ESTIMADO VENTA": null,
+   "TAMANO": 36,
+   "PRECIO VENTA": 0,
    "ESTADO": 0
  },
  {
@@ -175,8 +285,8 @@
    "TIPO": "AeroLight",
    "DESCRIPCION": "Stanley AeroLight Transit Bottle",
    "COLOR": "Seafoam",
-   "TAMANO (Oz)": 20,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 20,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -185,8 +295,8 @@
    "TIPO": "AeroLight",
    "DESCRIPCION": "Stanley AeroLight Transit Bottle",
    "COLOR": "Toast",
-   "TAMANO (Oz)": 20,
-   "PRECIO ESTIMADO VENTA": null,
+   "TAMANO": 20,
+   "PRECIO VENTA": 0,
    "ESTADO": 0
  },
  {
@@ -195,8 +305,8 @@
    "TIPO": "Adventure-To-Go",
    "DESCRIPCION": "Stanley Adventure-To-Go Vacuum Bottle",
    "COLOR": "Toast",
-   "TAMANO (Oz)": 44.8,
-   "PRECIO ESTIMADO VENTA": 36,
+   "TAMANO": 44.8,
+   "PRECIO VENTA": 36,
    "ESTADO": 1
  },
  {
@@ -205,8 +315,8 @@
    "TIPO": "AeroLight",
    "DESCRIPCION": "Stanley AeroLight Transit Bottle",
    "COLOR": "Lilac",
-   "TAMANO (Oz)": 20,
-   "PRECIO ESTIMADO VENTA": null,
+   "TAMANO": 20,
+   "PRECIO VENTA": 0,
    "ESTADO": 0
  },
  {
@@ -215,8 +325,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow 2.0 Flip Straw Tumbler with Handle",
    "COLOR": "Pomelo",
-   "TAMANO (Oz)": 30,
-   "PRECIO ESTIMADO VENTA": 34,
+   "TAMANO": 30,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -225,8 +335,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Meadow",
-   "TAMANO (Oz)": 24,
-   "PRECIO ESTIMADO VENTA": 34,
+   "TAMANO": 24,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -235,8 +345,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Azure",
-   "TAMANO (Oz)": 24,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 24,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -245,8 +355,8 @@
    "TIPO": "Quick Flip GO",
    "DESCRIPCION": "Stanley Quick Flip GO Water Bottle",
    "COLOR": "Black",
-   "TAMANO (Oz)": 36,
-   "PRECIO ESTIMADO VENTA": 34,
+   "TAMANO": 36,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -255,8 +365,8 @@
    "TIPO": "All Day",
    "DESCRIPCION": "Stanley All Day Slim Bottle",
    "COLOR": "Azure",
-   "TAMANO (Oz)": 20,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 20,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -265,8 +375,8 @@
    "TIPO": "Cafe To Go",
    "DESCRIPCION": "Stanley Cafe To Go Travel Mug",
    "COLOR": "Frost",
-   "TAMANO (Oz)": 16,
-   "PRECIO ESTIMADO VENTA": null,
+   "TAMANO": 16,
+   "PRECIO VENTA": 0,
    "ESTADO": 0
  },
  {
@@ -275,8 +385,8 @@
    "TIPO": "AeroLight",
    "DESCRIPCION": "Stanley AeroLight Transit Bottle",
    "COLOR": "Twilight",
-   "TAMANO (Oz)": 20,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 20,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -285,8 +395,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Lilac",
-   "TAMANO (Oz)": 24,
-   "PRECIO ESTIMADO VENTA": 34,
+   "TAMANO": 24,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -295,8 +405,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Lilac",
-   "TAMANO (Oz)": 16,
-   "PRECIO ESTIMADO VENTA": null,
+   "TAMANO": 16,
+   "PRECIO VENTA": 0,
    "ESTADO": 0
  },
  {
@@ -305,8 +415,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Cap and Carry Water Bottle",
    "COLOR": "Tigerlily",
-   "TAMANO (Oz)": 16,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 16,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -315,8 +425,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Cap and Carry Water Bottle",
    "COLOR": "Azure",
-   "TAMANO (Oz)": 16,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 16,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -325,8 +435,8 @@
    "TIPO": "Quick Flip GO",
    "DESCRIPCION": "Stanley Quick Flip GO Water Bottle",
    "COLOR": "Azure",
-   "TAMANO (Oz)": 36,
-   "PRECIO ESTIMADO VENTA": 34,
+   "TAMANO": 36,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -335,8 +445,8 @@
    "TIPO": "Quick Flip GO",
    "DESCRIPCION": "Stanley Quick Flip GO Water Bottle",
    "COLOR": "Azure",
-   "TAMANO (Oz)": 24,
-   "PRECIO ESTIMADO VENTA": 32,
+   "TAMANO": 24,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -345,8 +455,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Fast Flow Water Bottle ",
    "COLOR": "Lilac",
-   "TAMANO (Oz)": 36,
-   "PRECIO ESTIMADO VENTA": null,
+   "TAMANO": 36,
+   "PRECIO VENTA": 0,
    "ESTADO": 0
  },
  {
@@ -355,8 +465,8 @@
    "TIPO": "IceFlow",
    "DESCRIPCION": "Stanley IceFlow Cap and Carry Water Bottle",
    "COLOR": "Lilac",
-   "TAMANO (Oz)": 50,
-   "PRECIO ESTIMADO VENTA": null,
+   "TAMANO": 50,
+   "PRECIO VENTA": 0,
    "ESTADO": 0
  },
  {
@@ -365,8 +475,8 @@
    "TIPO": "Quick Flip GO",
    "DESCRIPCION": "Stanley Quick Flip GO Water Bottle",
    "COLOR": "Lilac",
-   "TAMANO (Oz)": 36,
-   "PRECIO ESTIMADO VENTA": null,
+   "TAMANO": 36,
+   "PRECIO VENTA": 0,
    "ESTADO": 0
  }
 ]
