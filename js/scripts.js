@@ -56,6 +56,7 @@ async function cargarProductos() {
                             </div>
 
                             <div class="col-md-4 p-5">
+                                <p class="text-muted mb-1">${producto.ASIN}</p>
                                 <h1 class="fw-bold mb-3">${producto.DESCRIPCION}</h1>
 
                                 <div class="product-info p-3 bg-light rounded-3 mb-4">
