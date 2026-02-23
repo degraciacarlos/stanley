@@ -58,8 +58,12 @@ async function cargarProductos() {
                             <div class="col-md-4 p-5">
                                 <h1 class="fw-bold mb-3">${producto.DESCRIPCION}</h1>
 
-                                <p class="product-info"><strong>Color:</strong> <span>${producto.COLOR}</span></p>
-                                <p class="product-info"><strong>Capacidad:</strong> <span>${producto["TAMANO (Oz)"]} oz</span></p>
+                                <div class="product-info p-3 bg-light rounded-3 mb-4">
+                                    <ul class="list-unstyled mb-0">
+                                        <li class="mb-2"><strong>Color:</strong> ${producto.COLOR}</li>
+                                        <li><strong>Capacidad:</strong> ${producto["TAMANO (Oz)"]} oz</li>
+                                    </ul>
+                                </div>
 
                                 <div class="product-price mb-4">
                                     <span class="current-price">$${producto["PRECIO ESTIMADO VENTA"]}</span>
