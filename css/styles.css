@@ -46,23 +46,13 @@
 }
 
 .product-info {
-    font-size: 1.1rem;
-    margin-bottom: 1rem;
-    color: #495057; 
+    font-size: 0.95rem;
 }
 
 .product-info strong {
-    color: #212529; 
-}
-
-.product-info span {
+    color: #555;
+    min-width: 90px;
     display: inline-block;
-    margin-left: 8px;
-    padding: 2px 8px;
-    background-color: #d3d3d3; 
-    color: #0c0c0c; 
-    border-radius: 5px;
-    font-weight: 500;
 }
 
 .product-price {
