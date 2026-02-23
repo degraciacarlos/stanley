@@ -62,12 +62,12 @@ async function cargarProductos() {
                                 <div class="product-info p-3 bg-light rounded-3 mb-4">
                                     <ul class="list-unstyled mb-0">
                                         <li class="mb-2"><strong>Color:</strong> ${producto.COLOR}</li>
-                                        <li><strong>Capacidad:</strong> ${producto["TAMANO (Oz)"]} oz</li>
+                                        <li><strong>Capacidad:</strong> ${producto.TAMANO} oz</li>
                                     </ul>
                                 </div>
 
                                 <div class="product-price mb-4">
-                                    <span class="current-price">$${producto["PRECIO ESTIMADO VENTA"]}</span>
+                                    <span class="current-price">$${producto["PRECIO VENTA"]}</span>
                                 </div>
                             </div>
 
