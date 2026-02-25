@@ -1,5 +1,6 @@
 [
  {
+   "ID": 60,
    "ASIN": "B0DVK7Y71N",
    "TIPO": "Travel Mug",
    "USO": "Cafe",
@@ -10,6 +11,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 59,
    "ASIN": "B0CSF3J85W",
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
@@ -20,6 +22,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 58,
    "ASIN": "B0CWLSCHFB",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -30,6 +33,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 57,
    "ASIN": "B08RXT2YVL",
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
@@ -40,6 +44,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 56,
    "ASIN": "B0CV63QL6K",
    "TIPO": "Adventure Pre-Party",
    "USO": "Licor",
@@ -50,6 +55,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 55,
    "ASIN": "B0DTNFQDDB",
    "TIPO": "Classic Easy Fill",
    "USO": "Licor",
@@ -60,6 +66,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 54,
    "ASIN": "B0DQY7LSBR",
    "TIPO": "Classic Bottle",
    "USO": "Cerveza",
@@ -70,6 +77,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 53,
    "ASIN": "B0DTN3FJ1C",
    "TIPO": "Classic Easy Fill ",
    "USO": "Licor",
@@ -80,6 +88,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 52,
    "ASIN": "B0DTMZK1DK",
    "TIPO": "Happy Hour Cocktail",
    "USO": "Cocktail",
@@ -90,6 +99,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 51,
    "ASIN": "B0DTN993Z5",
    "TIPO": "Classic Bottle",
    "USO": "Cerveza",
@@ -100,6 +110,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 50,
    "ASIN": "B0DVZYG76G",
    "TIPO": "Stay-Chill Beer",
    "USO": "Cerveza",
@@ -110,6 +121,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 49,
    "ASIN": "B0F7KCYPS8",
    "TIPO": "AeroLight",
    "USO": "Agua/Cafe",
@@ -120,6 +132,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 48,
    "ASIN": "B0CT49TWCP",
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
@@ -130,6 +143,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 47,
    "ASIN": "B0C2G9WLFG",
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
@@ -140,6 +154,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 46,
    "ASIN": "B0F7JXDZMK",
    "TIPO": "AeroLight",
    "USO": "Agua/Cafe",
@@ -150,6 +165,7 @@
    "ESTADO": 0
  },
  {
+   "ID": 45,
    "ASIN": "B0DCDC6V54",
    "TIPO": "Quencher",
    "USO": "Agua",
@@ -160,6 +176,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 44,
    "ASIN": "B0DR9PV96R",
    "TIPO": "Quencher",
    "USO": "Agua",
@@ -170,6 +187,7 @@
    "ESTADO": 0
  },
  {
+   "ID": 43,
    "ASIN": "B0DCD92FYC",
    "TIPO": "Quencher",
    "USO": "Agua",
@@ -180,6 +198,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 42,
    "ASIN": "B0DR9NQMMS",
    "TIPO": "Quencher",
    "USO": "Agua",
@@ -190,6 +209,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 41,
    "ASIN": "B0CSF3YBT1",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -200,6 +220,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 40,
    "ASIN": "B0FB7KNN6K",
    "TIPO": "Quencher",
    "USO": "Agua",
@@ -210,6 +231,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 39,
    "ASIN": "B07NDY8P62",
    "TIPO": "Food Jar",
    "USO": "Comida",
@@ -220,6 +242,7 @@
    "ESTADO": 0
  },
  {
+   "ID": 38,
    "ASIN": "B0DVKP9PJT",
    "TIPO": "Adventure-To-Go",
    "USO": "Agua/Cafe",
@@ -230,6 +253,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 37,
    "ASIN": "B0D37XMB5X",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -240,6 +264,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 36,
    "ASIN": "B0CHN8SDYK",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -250,6 +275,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 35,
    "ASIN": "B0FPYS7JHN",
    "TIPO": "Quencher",
    "USO": "Agua",
@@ -260,6 +286,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 34,
    "ASIN": "B0CYP5F6ZJ",
    "TIPO": "All Day",
    "USO": "Agua",
@@ -270,6 +297,7 @@
    "ESTADO": 0
  },
  {
+   "ID": 33,
    "ASIN": "B0CYP2HVGC",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -280,6 +308,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 32,
    "ASIN": "B0CHN7VZGQ",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -290,6 +319,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 31,
    "ASIN": "B0DCDLF3BC",
    "TIPO": "Quencher",
    "USO": "Agua",
@@ -300,6 +330,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 30,
    "ASIN": "B0DCDYSK19",
    "TIPO": "Quencher",
    "USO": "Agua",
@@ -310,6 +341,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 29,
    "ASIN": "B0DCF3X83R",
    "TIPO": "Quencher",
    "USO": "Agua",
@@ -320,6 +352,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 28,
    "ASIN": "B0DR9P851F",
    "TIPO": "Quencher",
    "USO": "Agua",
@@ -330,6 +363,7 @@
    "ESTADO": 0
  },
  {
+   "ID": 27,
    "ASIN": "B0F7K9FLDL",
    "TIPO": "AeroLight",
    "USO": "Agua/Cafe",
@@ -340,6 +374,7 @@
    "ESTADO": 0
  },
  {
+   "ID": 26,
    "ASIN": "B0CYP5Z4XK",
    "TIPO": "All Day",
    "USO": "Agua",
@@ -350,6 +385,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 25,
    "ASIN": "B0CT4CGSF7",
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
@@ -360,6 +396,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 24,
    "ASIN": "B0DTMMMMB9",
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
@@ -370,6 +407,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 23,
    "ASIN": "B0CHN81P1D",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -380,6 +418,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 22,
    "ASIN": "B0CFP8GK6M",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -390,6 +429,7 @@
    "ESTADO": 0
  },
  {
+   "ID": 21,
    "ASIN": "B0D37X4LWJ",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -400,6 +440,7 @@
    "ESTADO": 0
  },
  {
+   "ID": 20,
    "ASIN": "B0F7K3LPG3",
    "TIPO": "AeroLight",
    "USO": "Agua/Cafe",
@@ -410,6 +451,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 19,
    "ASIN": "B0F7K5P94F",
    "TIPO": "AeroLight",
    "USO": "Agua/Cafe",
@@ -420,6 +462,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 18,
    "ASIN": "B0DVKNF4NM",
    "TIPO": "Adventure-To-Go",
    "USO": "Agua/Cafe",
@@ -430,6 +473,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 17,
    "ASIN": "B0F7JZ2TSN",
    "TIPO": "AeroLight",
    "USO": "Agua/Cafe",
@@ -440,6 +484,7 @@
    "ESTADO": 0
  },
  {
+   "ID": 16,
    "ASIN": "B0F251YQR4",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -450,6 +495,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 15,
    "ASIN": "B0DTN4QH1R",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -460,6 +506,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 14,
    "ASIN": "B0CYP58B12",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -470,6 +517,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 13,
    "ASIN": "B0DTN46Q7Z",
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
@@ -480,6 +528,7 @@
    "ESTADO": 0
  },
  {
+   "ID": 12,
    "ASIN": "B0CYP8TRPW",
    "TIPO": "All Day",
    "USO": "Agua",
@@ -490,6 +539,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 11,
    "ASIN": "B0DXNFS5W7",
    "TIPO": "Cafe To Go",
    "USO": "Agua/Cafe",
@@ -500,6 +550,7 @@
    "ESTADO": 0
  },
  {
+   "ID": 10,
    "ASIN": "B0F7K2QJRK",
    "TIPO": "AeroLight",
    "USO": "Agua/Cafe",
@@ -510,6 +561,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 9,
    "ASIN": "B0CYP4L93X",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -520,6 +572,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 8,
    "ASIN": "B0DTMZN16D",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -530,6 +583,7 @@
    "ESTADO": 0
  },
  {
+   "ID": 7,
    "ASIN": "B0CHN918QL",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -540,6 +594,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 6,
    "ASIN": "B0D37ZPRSX",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -550,6 +605,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 5,
    "ASIN": "B0DTNBH3GD",
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
@@ -560,6 +616,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 4,
    "ASIN": "B0CT4BQBP9",
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
@@ -570,6 +627,7 @@
    "ESTADO": 1
  },
  {
+   "ID": 3,
    "ASIN": "B0D37WS5Z6",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -580,6 +638,7 @@
    "ESTADO": 0
  },
  {
+   "ID": 2,
    "ASIN": "B0D37XSSCK",
    "TIPO": "IceFlow",
    "USO": "Agua",
@@ -590,6 +649,7 @@
    "ESTADO": 0
  },
  {
+   "ID": 1,
    "ASIN": "B0DTN3TP6D",
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
