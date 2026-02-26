@@ -95,8 +95,8 @@
    "DESCRIPCION": "Stanley Happy Hour Cocktail Shaker Set",
    "COLOR": "Black",
    "TAMANO": 20,
-   "PRECIO VENTA": 34,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 51,
@@ -238,8 +238,8 @@
    "DESCRIPCION": "Stanley Classic Food Jar and Spork",
    "COLOR": "Silver",
    "TAMANO": 18,
-   "PRECIO VENTA": 0,
-   "ESTADO": 0
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
  },
  {
    "ID": 38,
@@ -535,8 +535,8 @@
    "DESCRIPCION": "Stanley All Day Slim Bottle",
    "COLOR": "Azure",
    "TAMANO": 20,
-   "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 11,
@@ -590,8 +590,8 @@
    "DESCRIPCION": "Stanley IceFlow Cap and Carry Water Bottle",
    "COLOR": "Tigerlily",
    "TAMANO": 16,
-   "PRECIO VENTA": 32,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 6,
