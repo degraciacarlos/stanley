@@ -1,5 +1,38 @@
 [
  {
+   "ID": 63,
+   "ASIN": "B0DTMVYN8R",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "DESCRIPCION": "IceFlow Fast Flow Water Bottle",
+   "COLOR": "Frost",
+   "TAMANO": 16,
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 62,
+   "ASIN": "B0G77LGPQY",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "DESCRIPCION": "Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
+   "COLOR": "Chalk",
+   "TAMANO": 14,
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
+   "ID": 61,
+   "ASIN": "B0DFJ9P2G4",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "DESCRIPCION": "IceFlow Fast Flow Water Bottle",
+   "COLOR": "Ash",
+   "TAMANO": 16,
+   "PRECIO VENTA": 32,
+   "ESTADO": 1
+ },
+ {
    "ID": 60,
    "ASIN": "B0DVK7Y71N",
    "TIPO": "Travel Mug",
@@ -79,7 +112,7 @@
  {
    "ID": 53,
    "ASIN": "B0DTN3FJ1C",
-   "TIPO": "Classic Easy Fill",
+   "TIPO": "Classic Easy Fill ",
    "USO": "Licor",
    "DESCRIPCION": "Classic Easy Fill Wide Mouth Flask",
    "COLOR": "Dried Pine",
@@ -106,8 +139,8 @@
    "DESCRIPCION": "Classic Bottle Opener Beer Stein",
    "COLOR": "Black",
    "TAMANO": 24,
-   "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 50,
@@ -238,8 +271,8 @@
    "DESCRIPCION": "Classic Food Jar and Spork",
    "COLOR": "Silver",
    "TAMANO": 18,
-   "PRECIO VENTA": 32,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 38,
@@ -282,8 +315,8 @@
    "DESCRIPCION": "Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
    "COLOR": "Port Shimmer",
    "TAMANO": 14,
-   "PRECIO VENTA": 32,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 34,
@@ -304,8 +337,8 @@
    "DESCRIPCION": "IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Pomelo",
    "TAMANO": 24,
-   "PRECIO VENTA": 32,
-   "ESTADO": 1
+   "PRECIO VENTA": 0,
+   "ESTADO": 0
  },
  {
    "ID": 32,
@@ -400,7 +433,7 @@
    "ASIN": "B0DTMMMMB9",
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
-   "DESCRIPCION": "Quick Flip GO Water Bottle",
+   "DESCRIPCION": " Quick Flip GO Water Bottle",
    "COLOR": "Frost",
    "TAMANO": 24,
    "PRECIO VENTA": 32,
