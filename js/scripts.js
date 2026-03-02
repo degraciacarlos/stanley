@@ -1,6 +1,5 @@
 let productosGlobal = [];
 
-// Cambiar imagen principal
 function changeImage(thumbnail) {
     const card = thumbnail.closest('.product-card');
     const mainImage = card.querySelector('.product-img');
@@ -13,7 +12,6 @@ function changeImage(thumbnail) {
     thumbnail.classList.add('active-thumb');
 }
 
-// Cargar productos
 async function cargarProductos() {
     try {
         const respuesta = await fetch('data/products.json?t=' + new Date().getTime());
@@ -39,10 +37,12 @@ async function cargarProductos() {
     }
 }
 
-// Crear opciones dinámicas
 function inicializarFiltros(productos) {
     const selectTipo = document.getElementById('filterTipo');
     const selectUso = document.getElementById('filterUso');
+    const selectTamano = document.getElementById('filterTamano');
+
+    selectTipo.innerHTML = '<option value="Todos">Todos</option>';
 
     const tipos = [...new Set(productos.map(p => p.TIPO))].sort();
 
@@ -53,20 +53,47 @@ function inicializarFiltros(productos) {
         selectTipo.appendChild(option);
     });
 
-    // Evento cuando cambia TIPO
     selectTipo.addEventListener('change', () => {
         actualizarFiltroUso();
+        actualizarFiltroTamano();
         aplicarFiltros();
     });
 
-    // Evento cuando cambia USO
     selectUso.addEventListener('change', aplicarFiltros);
+    selectTamano.addEventListener('change', aplicarFiltros);
 
     document.getElementById('btnLimpiar')
         .addEventListener('click', limpiarFiltros);
 
-    // Cargar usos iniciales
     actualizarFiltroUso();
+    actualizarFiltroTamano();
+}
+
+function actualizarFiltroTamano() {
+    const selectTipo = document.getElementById('filterTipo');
+    const selectTamano = document.getElementById('filterTamano');
+
+    const tipoSeleccionado = selectTipo.value;
+
+    let productosFiltrados = productosGlobal;
+
+    if (tipoSeleccionado !== 'Todos') {
+        productosFiltrados = productosGlobal.filter(p => p.TIPO === tipoSeleccionado);
+    }
+
+    const tamanos = [...new Set(productosFiltrados.map(p => p.TAMANO))]
+        .sort((a, b) => a - b);
+
+    selectTamano.innerHTML = '<option value="Todos">Todos</option>';
+
+    tamanos.forEach(tamano => {
+        const option = document.createElement('option');
+        option.value = tamano;
+        option.textContent = tamano + " oz";
+        selectTamano.appendChild(option);
+    });
+
+    selectTamano.value = 'Todos';
 }
 
 function actualizarFiltroUso() {
@@ -83,7 +110,6 @@ function actualizarFiltroUso() {
 
     const usos = [...new Set(productosFiltrados.map(p => p.USO))].sort();
 
-    // Limpiar select USO
     selectUso.innerHTML = '<option value="Todos">Todos</option>';
 
     usos.forEach(uso => {
@@ -96,10 +122,10 @@ function actualizarFiltroUso() {
     selectUso.value = 'Todos';
 }
 
-// Aplicar filtros
 function aplicarFiltros() {
     const tipoSeleccionado = document.getElementById('filterTipo').value;
     const usoSeleccionado = document.getElementById('filterUso').value;
+    const tamanoSeleccionado = document.getElementById('filterTamano').value;
 
     let filtrados = productosGlobal;
 
@@ -111,17 +137,20 @@ function aplicarFiltros() {
         filtrados = filtrados.filter(p => p.USO === usoSeleccionado);
     }
 
+    if (tamanoSeleccionado !== 'Todos') {
+        filtrados = filtrados.filter(p => p.TAMANO == tamanoSeleccionado);
+    }
+
     renderProductos(filtrados);
 }
 
-// Limpiar filtros
 function limpiarFiltros() {
     document.getElementById('filterTipo').value = 'Todos';
     actualizarFiltroUso();
+    actualizarFiltroTamano();
     renderProductos(productosGlobal);
 }
 
-// Renderizar productos
 function renderProductos(productos) {
     const catalogo = document.getElementById('catalog');
     catalogo.innerHTML = '';
@@ -162,7 +191,7 @@ function renderProductos(productos) {
                                              src="images/${producto.ID}/image-2.png">
                                         <img class="thumb-img" 
                                              src="images/${producto.ID}/image-3.png">
-                                         <img class="thumb-img" 
+                                        <img class="thumb-img" 
                                              src="images/${producto.ID}/image-4.png">
                                     </div>
                                 </div>
