@@ -162,6 +162,8 @@ function renderProductos(productos) {
                                              src="images/${producto.ID}/image-2.png">
                                         <img class="thumb-img" 
                                              src="images/${producto.ID}/image-3.png">
+                                         <img class="thumb-img" 
+                                             src="images/${producto.ID}/image-4.png">
                                     </div>
                                 </div>
 
