@@ -107,7 +107,7 @@
    "COLOR": "Ash",
    "TAMANO": 16,
    "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "ESTADO": 0
  },
  {
    "ID": 27,
@@ -206,7 +206,7 @@
    "COLOR": "Chili Red",
    "TAMANO": 44.8,
    "PRECIO VENTA": 35,
-   "ESTADO": 1
+   "ESTADO": 0
  },
  {
    "ID": 18,
@@ -217,7 +217,7 @@
    "COLOR": "Pomelo",
    "TAMANO": 16,
    "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "ESTADO": 0
  },
  {
    "ID": 17,
@@ -228,7 +228,7 @@
    "COLOR": "Black",
    "TAMANO": 16,
    "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "ESTADO": 0
  },
  {
    "ID": 16,
@@ -316,7 +316,7 @@
    "COLOR": "Toast",
    "TAMANO": 44.8,
    "PRECIO VENTA": 35,
-   "ESTADO": 1
+   "ESTADO": 0
  },
  {
    "ID": 8,
@@ -404,6 +404,6 @@
    "COLOR": "Azure",
    "TAMANO": 24,
    "PRECIO VENTA": 25,
-   "ESTADO": 1
+   "ESTADO": 0
  }
 ]
