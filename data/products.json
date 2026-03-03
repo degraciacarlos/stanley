@@ -1,5 +1,49 @@
 [
  {
+   "ID": 37,
+   "ASIN": "B0CYP3R1QL",
+   "TIPO": "All Day",
+   "USO": "Agua",
+   "DESCRIPCION": "All Day Slim Bottle",
+   "COLOR": "Mist",
+   "TAMANO": 34,
+   "PRECIO VENTA": 35,
+   "ESTADO": 1
+ },
+ {
+   "ID": 36,
+   "ASIN": "B0CHN617JW",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "DESCRIPCION": "IceFlow Cap and Carry Water Bottle | Wide Mouth Twist Lid",
+   "COLOR": "Rose Quartz",
+   "TAMANO": 50,
+   "PRECIO VENTA": 45,
+   "ESTADO": 1
+ },
+ {
+   "ID": 35,
+   "ASIN": "B0CHN85G96",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "DESCRIPCION": "IceFlow Cap and Carry Water Bottle | Wide Mouth Twist Lid",
+   "COLOR": "Polar",
+   "TAMANO": 50,
+   "PRECIO VENTA": 45,
+   "ESTADO": 1
+ },
+ {
+   "ID": 34,
+   "ASIN": "B0DCV47JXX",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "DESCRIPCION": "Quencher H2.0 Tumbler with Handle and Straw",
+   "COLOR": "Violet Blossom",
+   "TAMANO": 40,
+   "PRECIO VENTA": 40,
+   "ESTADO": 1
+ },
+ {
    "ID": 33,
    "ASIN": "B0FB7PGRLN",
    "TIPO": "Quencher",
