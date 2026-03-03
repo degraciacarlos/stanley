@@ -7,7 +7,7 @@
    "DESCRIPCION": "All Day Slim Bottle",
    "COLOR": "Mist",
    "TAMANO": 34,
-   "PRECIO VENTA": 35,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -18,7 +18,7 @@
    "DESCRIPCION": "IceFlow Cap and Carry Water Bottle | Wide Mouth Twist Lid",
    "COLOR": "Rose Quartz",
    "TAMANO": 50,
-   "PRECIO VENTA": 45,
+   "PRECIO VENTA": 42,
    "ESTADO": 1
  },
  {
@@ -29,7 +29,7 @@
    "DESCRIPCION": "IceFlow Cap and Carry Water Bottle | Wide Mouth Twist Lid",
    "COLOR": "Polar",
    "TAMANO": 50,
-   "PRECIO VENTA": 45,
+   "PRECIO VENTA": 42,
    "ESTADO": 1
  },
  {
@@ -40,8 +40,8 @@
    "DESCRIPCION": "Quencher H2.0 Tumbler with Handle and Straw",
    "COLOR": "Violet Blossom",
    "TAMANO": 40,
-   "PRECIO VENTA": 40,
-   "ESTADO": 1
+   "PRECIO VENTA": 45,
+   "ESTADO": 0
  },
  {
    "ID": 33,
@@ -73,7 +73,7 @@
    "DESCRIPCION": "IceFlow Fast Flow Water Bottle",
    "COLOR": "Rose Quartz",
    "TAMANO": 36,
-   "PRECIO VENTA": 45,
+   "PRECIO VENTA": 40,
    "ESTADO": 1
  },
  {
@@ -84,7 +84,7 @@
    "DESCRIPCION": "IceFlow Cap and Carry Water Bottle",
    "COLOR": "Black",
    "TAMANO": 36,
-   "PRECIO VENTA": 45,
+   "PRECIO VENTA": 44,
    "ESTADO": 1
  },
  {
@@ -95,7 +95,7 @@
    "DESCRIPCION": "Quencher H2.0 Tumbler with Straw",
    "COLOR": "Frost",
    "TAMANO": 20,
-   "PRECIO VENTA": 35,
+   "PRECIO VENTA": 26,
    "ESTADO": 1
  },
  {
@@ -117,7 +117,7 @@
    "DESCRIPCION": "Travel Mug with Integrated French Press",
    "COLOR": "Black",
    "TAMANO": 16,
-   "PRECIO VENTA": 36,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -128,7 +128,7 @@
    "DESCRIPCION": "IceFlow Fast Flow Water Bottle",
    "COLOR": "Lilac",
    "TAMANO": 24,
-   "PRECIO VENTA": 35,
+   "PRECIO VENTA": 30,
    "ESTADO": 1
  },
  {
@@ -140,7 +140,7 @@
    "COLOR": "Azure",
    "TAMANO": 8,
    "PRECIO VENTA": 18.5,
-   "ESTADO": 1
+   "ESTADO": 0
  },
  {
    "ID": 24,
@@ -151,7 +151,7 @@
    "COLOR": "Wisteria Shine",
    "TAMANO": 8,
    "PRECIO VENTA": 26,
-   "ESTADO": 1
+   "ESTADO": 0
  },
  {
    "ID": 23,
@@ -183,7 +183,7 @@
    "DESCRIPCION": "Quick Flip GO Water Bottle",
    "COLOR": "Pomelo",
    "TAMANO": 24,
-   "PRECIO VENTA": 25,
+   "PRECIO VENTA": 24,
    "ESTADO": 1
  },
  {
@@ -238,7 +238,7 @@
    "DESCRIPCION": "IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Pomelo",
    "TAMANO": 24,
-   "PRECIO VENTA": 35,
+   "PRECIO VENTA": 30,
    "ESTADO": 1
  },
  {
@@ -260,7 +260,7 @@
    "DESCRIPCION": "All Day Slim Bottle",
    "COLOR": "Pomelo",
    "TAMANO": 20,
-   "PRECIO VENTA": 30,
+   "PRECIO VENTA": 28,
    "ESTADO": 1
  },
  {
@@ -271,7 +271,7 @@
    "DESCRIPCION": "IceFlow Cap and Carry Water Bottle",
    "COLOR": "Alpine",
    "TAMANO": 16,
-   "PRECIO VENTA": 30,
+   "PRECIO VENTA": 28,
    "ESTADO": 1
  },
  {
@@ -294,7 +294,7 @@
    "COLOR": "Seafoam",
    "TAMANO": 20,
    "PRECIO VENTA": 35,
-   "ESTADO": 1
+   "ESTADO": 0
  },
  {
    "ID": 10,
@@ -304,7 +304,7 @@
    "DESCRIPCION": "AeroLight Transit Bottle",
    "COLOR": "Toast",
    "TAMANO": 20,
-   "PRECIO VENTA": 35,
+   "PRECIO VENTA": 30,
    "ESTADO": 1
  },
  {
@@ -326,7 +326,7 @@
    "DESCRIPCION": "IceFlow 2.0 Flip Straw Tumbler with Handle",
    "COLOR": "Pomelo",
    "TAMANO": 30,
-   "PRECIO VENTA": 35,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -337,7 +337,7 @@
    "DESCRIPCION": "IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Meadow",
    "TAMANO": 24,
-   "PRECIO VENTA": 35,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -348,7 +348,7 @@
    "DESCRIPCION": "IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Azure",
    "TAMANO": 24,
-   "PRECIO VENTA": 35,
+   "PRECIO VENTA": 30,
    "ESTADO": 1
  },
  {
@@ -359,7 +359,7 @@
    "DESCRIPCION": "AeroLight Transit Bottle",
    "COLOR": "Twilight",
    "TAMANO": 20,
-   "PRECIO VENTA": 35,
+   "PRECIO VENTA": 30,
    "ESTADO": 1
  },
  {
@@ -370,7 +370,7 @@
    "DESCRIPCION": "IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Lilac",
    "TAMANO": 24,
-   "PRECIO VENTA": 35,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -381,7 +381,7 @@
    "DESCRIPCION": "IceFlow Cap and Carry Water Bottle",
    "COLOR": "Azure",
    "TAMANO": 16,
-   "PRECIO VENTA": 30,
+   "PRECIO VENTA": 28,
    "ESTADO": 1
  },
  {
