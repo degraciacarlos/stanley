@@ -1,5 +1,60 @@
 [
  {
+   "ID": 42,
+   "ASIN": "B0CYVT3LP1",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "DESCRIPCION": "IceFlow Flip Straw 2.0 Water Bottle",
+   "COLOR": "Plum",
+   "TAMANO": 36,
+   "PRECIO VENTA": 40,
+   "ESTADO": 1
+ },
+ {
+   "ID": 41,
+   "ASIN": "B0GFQ1JQVZ",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "DESCRIPCION": "Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
+   "COLOR": "Sunrise Spiral",
+   "TAMANO": 40,
+   "PRECIO VENTA": 42,
+   "ESTADO": 1
+ },
+ {
+   "ID": 40,
+   "ASIN": "B0DCDPH1Y3",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "DESCRIPCION": "Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
+   "COLOR": "Rose Quartz",
+   "TAMANO": 30,
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
+ },
+ {
+   "ID": 39,
+   "ASIN": "B0DCDGH73L",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "DESCRIPCION": "Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
+   "COLOR": "Frost Fade",
+   "TAMANO": 40,
+   "PRECIO VENTA": 42,
+   "ESTADO": 1
+ },
+ {
+   "ID": 38,
+   "ASIN": "B0DR9P7CMC",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "DESCRIPCION": "Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
+   "COLOR": "Cream Fade",
+   "TAMANO": 40,
+   "PRECIO VENTA": 42,
+   "ESTADO": 1
+ },
+ {
    "ID": 37,
    "ASIN": "B0CYP3R1QL",
    "TIPO": "All Day",
@@ -18,7 +73,7 @@
    "DESCRIPCION": "IceFlow Cap and Carry Water Bottle | Wide Mouth Twist Lid",
    "COLOR": "Rose Quartz",
    "TAMANO": 50,
-   "PRECIO VENTA": 42,
+   "PRECIO VENTA": 44,
    "ESTADO": 1
  },
  {
@@ -29,7 +84,7 @@
    "DESCRIPCION": "IceFlow Cap and Carry Water Bottle | Wide Mouth Twist Lid",
    "COLOR": "Polar",
    "TAMANO": 50,
-   "PRECIO VENTA": 42,
+   "PRECIO VENTA": 44,
    "ESTADO": 1
  },
  {
@@ -40,8 +95,8 @@
    "DESCRIPCION": "Quencher H2.0 Tumbler with Handle and Straw",
    "COLOR": "Violet Blossom",
    "TAMANO": 40,
-   "PRECIO VENTA": 45,
-   "ESTADO": 0
+   "PRECIO VENTA": 36,
+   "ESTADO": 1
  },
  {
    "ID": 33,
@@ -63,7 +118,7 @@
    "COLOR": "Exclusive Sienna",
    "TAMANO": 40,
    "PRECIO VENTA": 45,
-   "ESTADO": 1
+   "ESTADO": 0
  },
  {
    "ID": 31,
@@ -73,8 +128,8 @@
    "DESCRIPCION": "IceFlow Fast Flow Water Bottle",
    "COLOR": "Rose Quartz",
    "TAMANO": 36,
-   "PRECIO VENTA": 40,
-   "ESTADO": 1
+   "PRECIO VENTA": 42,
+   "ESTADO": 0
  },
  {
    "ID": 30,
@@ -96,7 +151,7 @@
    "COLOR": "Frost",
    "TAMANO": 20,
    "PRECIO VENTA": 26,
-   "ESTADO": 1
+   "ESTADO": 0
  },
  {
    "ID": 28,
@@ -117,7 +172,7 @@
    "DESCRIPCION": "Travel Mug with Integrated French Press",
    "COLOR": "Black",
    "TAMANO": 16,
-   "PRECIO VENTA": 32,
+   "PRECIO VENTA": 36,
    "ESTADO": 1
  },
  {
@@ -128,8 +183,8 @@
    "DESCRIPCION": "IceFlow Fast Flow Water Bottle",
    "COLOR": "Lilac",
    "TAMANO": 24,
-   "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "PRECIO VENTA": 32,
+   "ESTADO": 0
  },
  {
    "ID": 25,
@@ -183,8 +238,8 @@
    "DESCRIPCION": "Quick Flip GO Water Bottle",
    "COLOR": "Pomelo",
    "TAMANO": 24,
-   "PRECIO VENTA": 24,
-   "ESTADO": 1
+   "PRECIO VENTA": 25,
+   "ESTADO": 0
  },
  {
    "ID": 20,
@@ -238,7 +293,7 @@
    "DESCRIPCION": "IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Pomelo",
    "TAMANO": 24,
-   "PRECIO VENTA": 30,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -271,7 +326,7 @@
    "DESCRIPCION": "IceFlow Cap and Carry Water Bottle",
    "COLOR": "Alpine",
    "TAMANO": 16,
-   "PRECIO VENTA": 28,
+   "PRECIO VENTA": 30,
    "ESTADO": 1
  },
  {
@@ -283,7 +338,7 @@
    "COLOR": "Pomelo",
    "TAMANO": 36,
    "PRECIO VENTA": 45,
-   "ESTADO": 1
+   "ESTADO": 0
  },
  {
    "ID": 11,
@@ -304,7 +359,7 @@
    "DESCRIPCION": "AeroLight Transit Bottle",
    "COLOR": "Toast",
    "TAMANO": 20,
-   "PRECIO VENTA": 30,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -348,7 +403,7 @@
    "DESCRIPCION": "IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Azure",
    "TAMANO": 24,
-   "PRECIO VENTA": 30,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -359,7 +414,7 @@
    "DESCRIPCION": "AeroLight Transit Bottle",
    "COLOR": "Twilight",
    "TAMANO": 20,
-   "PRECIO VENTA": 30,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -382,7 +437,7 @@
    "COLOR": "Azure",
    "TAMANO": 16,
    "PRECIO VENTA": 28,
-   "ESTADO": 1
+   "ESTADO": 0
  },
  {
    "ID": 2,
