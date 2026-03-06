@@ -7,7 +7,7 @@
    "DESCRIPCION": "IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Plum",
    "TAMANO": 36,
-   "PRECIO VENTA": 40,
+   "PRECIO VENTA": 42,
    "ESTADO": 1
  },
  {
@@ -29,7 +29,7 @@
    "DESCRIPCION": "Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
    "COLOR": "Rose Quartz",
    "TAMANO": 30,
-   "PRECIO VENTA": 34,
+   "PRECIO VENTA": 38,
    "ESTADO": 1
  },
  {
@@ -62,7 +62,7 @@
    "DESCRIPCION": "All Day Slim Bottle",
    "COLOR": "Mist",
    "TAMANO": 34,
-   "PRECIO VENTA": 34,
+   "PRECIO VENTA": 38,
    "ESTADO": 1
  },
  {
@@ -73,7 +73,7 @@
    "DESCRIPCION": "IceFlow Cap and Carry Water Bottle | Wide Mouth Twist Lid",
    "COLOR": "Rose Quartz",
    "TAMANO": 50,
-   "PRECIO VENTA": 44,
+   "PRECIO VENTA": 48,
    "ESTADO": 1
  },
  {
@@ -84,7 +84,7 @@
    "DESCRIPCION": "IceFlow Cap and Carry Water Bottle | Wide Mouth Twist Lid",
    "COLOR": "Polar",
    "TAMANO": 50,
-   "PRECIO VENTA": 44,
+   "PRECIO VENTA": 48,
    "ESTADO": 1
  },
  {
@@ -95,7 +95,7 @@
    "DESCRIPCION": "Quencher H2.0 Tumbler with Handle and Straw",
    "COLOR": "Violet Blossom",
    "TAMANO": 40,
-   "PRECIO VENTA": 36,
+   "PRECIO VENTA": 42,
    "ESTADO": 1
  },
  {
@@ -106,8 +106,8 @@
    "DESCRIPCION": "Quencher ProTour Flip Straw Tumbler with Leakproof Lid",
    "COLOR": "Goldenrod Fade",
    "TAMANO": 40,
-   "PRECIO VENTA": 45,
-   "ESTADO": 1
+   "PRECIO VENTA": 42,
+   "ESTADO": 0
  },
  {
    "ID": 32,
@@ -117,7 +117,7 @@
    "DESCRIPCION": "Quencher H2.0 Tumbler with Handle and Straw",
    "COLOR": "Exclusive Sienna",
    "TAMANO": 40,
-   "PRECIO VENTA": 45,
+   "PRECIO VENTA": 42,
    "ESTADO": 0
  },
  {
@@ -139,7 +139,7 @@
    "DESCRIPCION": "IceFlow Cap and Carry Water Bottle",
    "COLOR": "Black",
    "TAMANO": 36,
-   "PRECIO VENTA": 44,
+   "PRECIO VENTA": 42,
    "ESTADO": 1
  },
  {
@@ -150,7 +150,7 @@
    "DESCRIPCION": "Quencher H2.0 Tumbler with Straw",
    "COLOR": "Frost",
    "TAMANO": 20,
-   "PRECIO VENTA": 26,
+   "PRECIO VENTA": 35,
    "ESTADO": 0
  },
  {
@@ -172,7 +172,7 @@
    "DESCRIPCION": "Travel Mug with Integrated French Press",
    "COLOR": "Black",
    "TAMANO": 16,
-   "PRECIO VENTA": 36,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -183,7 +183,7 @@
    "DESCRIPCION": "IceFlow Fast Flow Water Bottle",
    "COLOR": "Lilac",
    "TAMANO": 24,
-   "PRECIO VENTA": 32,
+   "PRECIO VENTA": 35,
    "ESTADO": 0
  },
  {
@@ -228,7 +228,7 @@
    "COLOR": "Black",
    "TAMANO": 24,
    "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "ESTADO": 0
  },
  {
    "ID": 21,
@@ -293,7 +293,7 @@
    "DESCRIPCION": "IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Pomelo",
    "TAMANO": 24,
-   "PRECIO VENTA": 32,
+   "PRECIO VENTA": 35,
    "ESTADO": 0
  },
  {
@@ -315,7 +315,7 @@
    "DESCRIPCION": "All Day Slim Bottle",
    "COLOR": "Pomelo",
    "TAMANO": 20,
-   "PRECIO VENTA": 28,
+   "PRECIO VENTA": 30,
    "ESTADO": 1
  },
  {
@@ -326,7 +326,7 @@
    "DESCRIPCION": "IceFlow Cap and Carry Water Bottle",
    "COLOR": "Alpine",
    "TAMANO": 16,
-   "PRECIO VENTA": 30,
+   "PRECIO VENTA": 28,
    "ESTADO": 1
  },
  {
@@ -337,8 +337,8 @@
    "DESCRIPCION": "IceFlow Fast Flow Water Bottle",
    "COLOR": "Pomelo",
    "TAMANO": 36,
-   "PRECIO VENTA": 45,
-   "ESTADO": 1
+   "PRECIO VENTA": 42,
+   "ESTADO": 0
  },
  {
    "ID": 11,
@@ -359,7 +359,7 @@
    "DESCRIPCION": "AeroLight Transit Bottle",
    "COLOR": "Toast",
    "TAMANO": 20,
-   "PRECIO VENTA": 32,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -403,7 +403,7 @@
    "DESCRIPCION": "IceFlow Flip Straw 2.0 Water Bottle",
    "COLOR": "Azure",
    "TAMANO": 24,
-   "PRECIO VENTA": 32,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -414,7 +414,7 @@
    "DESCRIPCION": "AeroLight Transit Bottle",
    "COLOR": "Twilight",
    "TAMANO": 20,
-   "PRECIO VENTA": 32,
+   "PRECIO VENTA": 34,
    "ESTADO": 1
  },
  {
@@ -436,7 +436,7 @@
    "DESCRIPCION": "IceFlow Cap and Carry Water Bottle",
    "COLOR": "Azure",
    "TAMANO": 16,
-   "PRECIO VENTA": 28,
+   "PRECIO VENTA": 30,
    "ESTADO": 0
  },
  {
