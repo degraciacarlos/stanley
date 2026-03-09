@@ -46,12 +46,12 @@
 }
 
 .product-info {
-    font-size: 0.95rem;
+    font-size: 1.1rem;
 }
 
 .product-info strong {
     color: #555;
-    min-width: 90px;
+    min-width: 120px;
     display: inline-block;
 }
 
